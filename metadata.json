@@ -1,0 +1,6 @@
+{
+  "name": "UPEPE & JPEPE Ecosystem",
+  "description": "The official web portal for the JPEPE & UPEPE dual-token ecosystem on BSC. Explore token parameters, automated deflation mechanisms, and community channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
